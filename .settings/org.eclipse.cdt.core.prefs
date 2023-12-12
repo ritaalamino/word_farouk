@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/CWD/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/CWD/operation=replace
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/CWD/value=C\:\\Users\\RitaA\\Downloads\\word\\Debug
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/DYLD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/DYLD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/DYLD_LIBRARY_PATH/value=$DYLD_LIBRARY_PATH\:C\:\\Users\\RitaA\\Downloads\\word\\Debug
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/PATH/value=/opt/local/bin\:/opt/local/sbin\:/usr/bin\:/bin\:/usr/sbin\:/sbin\:/usr/local/bin\:/opt/X11/bin\:/usr/texbin\:C\:\\Users\\RitaA\\Downloads\\word\\word\\libs\:C\:\\Users\\RitaA\\Downloads\\word\\word\\Debug\:C\:\\ProgramData\\chocolatey\\bin
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/append=true
+environment/project/cdt.managedbuild.config.gnu.macosx.exe.debug.811908656/appendContributed=true
